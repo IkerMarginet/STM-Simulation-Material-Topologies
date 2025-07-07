@@ -46,8 +46,8 @@ Although the underlying physics is simplified, the implementation supports rapid
 ## Installation
 
 ```bash
-git clone https://github.com/your‑username/your‑repo.git
-cd your‑repo
+git clone https://github.com/IkerMarginetSTM-Simulation-Material-Topologies.git
+cd STM-Simulation-Material-Topologies
 python -m venv .venv
 source .venv/bin/activate  # Windows: .\.venv\Scripts\activate
 pip install numpy matplotlib
